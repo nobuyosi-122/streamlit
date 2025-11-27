@@ -23,5 +23,4 @@ map_data = pd.DataFrame(data)
 # 地図に散布図を描く
 st.map(map_data)
 requirements.txt
-Pillow==8.4.0
-pandas==1.2.3
+
